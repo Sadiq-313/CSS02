@@ -1,0 +1,22 @@
+.body{
+    width:400 ;
+    margin: 0;
+    padding: 0;
+}
+.div2{ color: rgb(231, 72, 23);  background-color: aliceblue;}
+
+.div1{background-color:black;
+    color: antiquewhite;   width:400 ; height: 200; }
+.div3{ background-color: aliceblue; color: red;}
+
+.div4{ background-color: antiquewhite;
+color: chocolate;}
+
+.div5{background-color: aliceblue; color: brown;}
+
+.div6{background-color:whitesmoke; color:rgb(24, 6, 6);}
+
+.div7{background-color: rgb(219, 135, 205); color: beige;}
+
+.div8{background-color: aliceblue; color: red;}
+
